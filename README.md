@@ -17,10 +17,11 @@
 ## Installation & Usage
 
 ```bash
-pip install simulate_damage
+pip3 install simulate_damage
+```
 
-## Example usage
-
+```bash
+# Example usage
 simulate_damage \
   --r1 sample_R1.fastq.gz \
   --r2 sample_R2.fastq.gz \
